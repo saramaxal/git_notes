@@ -3,7 +3,7 @@
 
 Ссылка на классную и подробную инструкцию по установке и использованию Git, по которой были составлены заметки: [git-scm.com/book/ru/v2](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9) (большое спасибо автору!)
 
-Ссылка на установку Git для Windows: https://git-scm.com/download/win
+[Установка Git для Windows](https://git-scm.com/download/win)
 
 Github CLI - инструмент для использования GitHub из командой строки
 
@@ -82,6 +82,8 @@ Github CLI - инструмент для использования GitHub из 
 *~
 save/
 #cat.md
+!setting.json
 ```
+[Генерация gitignore файла: toptal.com](https://www.toptal.com/developers/gitignore/)
 
-[Ссылка на классную статью с описанием шаблонов: atlassian.com]( https://www.atlassian.com/ru/git/tutorials/saving-changes/gitignore)
+[Описанием шаблонов: atlassian.com](https://www.atlassian.com/ru/git/tutorials/saving-changes/gitignore)
