@@ -1,9 +1,14 @@
 # Git заметки
-Заметки по работе с Git. 
+*Заметки по работе с Git.*
 
-Ссылка на классную и подробную инструкцию по установке и использованию Git, по которой были составлены заметки: https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9 (большое спасибо автору!)
+Ссылка на классную и подробную инструкцию по установке и использованию Git, по которой были составлены заметки: [git-scm.com/book/ru/v2](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9) (большое спасибо автору!)
 
 Ссылка на установку Git для Windows: https://git-scm.com/download/win
+
+Github CLI - инструмент для использования GitHub из командой строки
+
+[Установка Github CLI](https://github.com/cli/cli#installation) \
+[Инструкция по GitHub CLI](https://cli.github.com/manual/)
 
 ## Термины
 - **Working tree** - рабочая копия, файлы, которые можно редактировать
@@ -20,9 +25,9 @@
 
 ## Основные команды 
 
-`git config --global user.name "user name"`
+`git config --global user.name "user name"` - предназначено для авторства в комите
 
-`git config --global user.email <email>`
+`git config --global user.email <email>` - предназначено для авторства в комите
 
 `git init` - создать репозиторий в существующем каталоге (создастся подкаталог `.git`)
 
@@ -79,4 +84,4 @@ save/
 #cat.md
 ```
 
-Ссылка на классную статью с описанием шаблонов: https://www.atlassian.com/ru/git/tutorials/saving-changes/gitignore
+[Ссылка на классную статью с описанием шаблонов: atlassian.com]( https://www.atlassian.com/ru/git/tutorials/saving-changes/gitignore)
